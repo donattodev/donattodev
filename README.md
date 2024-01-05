@@ -24,7 +24,4 @@
   <img align="center" alt="Donatto-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 </div>
 
-<br>
-<br>
-
 ![Donatto Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=donattodev&show_icons=true&theme=dark)
