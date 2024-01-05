@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://github.com/donattodev/donattodev/assets/130395087/88a45558-1c85-43eb-be9c-abb7e9a9ade9"/>
+<img align="right" height="590em" src="https://github.com/donattodev/donattodev/assets/130395087/093529e8-6652-4ccc-8ce5-ee9beb41dec0"/>
 
 <h2 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Donatto</h2>
 
