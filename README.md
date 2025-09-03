@@ -2,7 +2,7 @@
 
 <h2 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Donatto</h2>
 
-- 🌎  Desenvolvedor Web - Produtor de conteúdo focado em ajudar pessoas a começarem a programar.
+- 🌎  Desenvolvedor Web -  Transformando ideias em produtos digitaisar.
 
 - 💼 Atualmente realizando trabalhos freelance [Agende um reunião](https://wa.me/message/EVND3KQTJJOTL1)
 
@@ -10,7 +10,6 @@
 
 <br>
 
-![Donatto Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=donattodev&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Donatto-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
